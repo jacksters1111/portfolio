@@ -1,8 +1,6 @@
 # [My Portfolio](https://startbootstrap.com/template-overviews/agency/)
 
-## My Portfolio
-
-[![Portfolio](https://i.imgur.com/WKNlFcg.png)
+![Portfolio](https://i.imgur.com/WKNlFcg.png)
 
 **[Link to site](https://jacksters1111.github.io/portfolio/)**
 
