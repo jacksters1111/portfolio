@@ -1,4 +1,4 @@
-# [My Portfolio]
+# My Portfolio
 
 ![Portfolio](https://i.imgur.com/pr8ZIH8.jpg)
 
